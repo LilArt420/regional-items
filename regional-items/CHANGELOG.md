@@ -1,3 +1,6 @@
+## 2.1.0
+- Refine tickets work: a Refine Master in Prontera (184, 177) refines with the +5 to +19 refine certificates and the [ROS] tickets for level 5 weapons and level 2 armor. The server ships this NPC switched off, so the tickets did nothing.
+
 ## 2.0.1
 - 366 item names no longer end in a database note such as
   "# !todo check english name" (e.g. Premium Black Ticket, Healing Ark).
